@@ -1,6 +1,6 @@
 # Design Your Ad: Personalized Advertising Image and Text Generation with Unified Autoregressive Models
 
-This is the official implementation of **UniAdGen**, a unified autoregressive framework for personalized advertising image and text generation.
+[CVPR 2026] Official PyTorch Code for "UniAdGen: Personalized Advertising Image and Text Generation with Unified Autoregressive Models"
 
 ## 🔧 Quick Start
 
@@ -206,3 +206,7 @@ This project builds upon the following excellent works:
 - [Janus](https://github.com/deepseek-ai/Janus)
 - [DINOv2](https://github.com/facebookresearch/dinov2)
 - [PlanGen](https://github.com/360CVGroup/PlanGen)
+
+## Copyright & Licensing
+
+© JD.COM. All rights reserved. The datasets and code provided in this repository are licensed exclusively for academic research purposes. Commercial use, reproduction, or distribution requires express written permission from JD.COM. Unauthorized commercial use constitutes a violation of these terms and is strictly prohibited.
