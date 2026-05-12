@@ -1,6 +1,6 @@
 # Design Your Ad: Personalized Advertising Image and Text Generation with Unified Autoregressive Models
 
-[CVPR 2026] Official PyTorch Code for "UniAdGen: Personalized Advertising Image and Text Generation with Unified Autoregressive Models"
+[CVPR 2026] Official PyTorch Code for "Design Your Ad: Personalized Advertising Image and Text Generation with Unified Autoregressive Models"
 
 ## 🔧 Quick Start
 
